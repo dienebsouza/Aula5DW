@@ -1,0 +1,37 @@
+.l{
+    background-color: #fff;
+}
+
+.n{
+    font-weight: bold;
+}
+
+td{
+    width: 90pt;
+    height: 30pt;
+    border: 1px solid #00f;
+}
+
+.tl{
+    text-align: left;
+}
+
+.tc{
+    text-align: center;
+}
+
+.tr{
+    text-align: right;
+}
+
+.vat{
+    vertical-align: top;
+}
+
+.vam{
+    vertical-align: middle;
+}
+
+.vab{
+    vertical-align: bottom;
+}
