@@ -1,0 +1,25 @@
+.div1{
+    
+    color: aliceblue;
+    width: 200px;
+    height: 250px;
+    background-image: linear-gradient(rgb(59, 193, 226), rgb(255, 137, 27), rgb(192, 51, 122));
+    border-radius: 10px;
+    border: 1px;
+}
+
+.div2{
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 250px;
+    background-color: rgb(192, 51, 122);
+}
+
+.div3{
+    background-color:rgb(59, 193, 226);
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 250px;
+}
+
+#box1{box-shadow: 10px 10px #000}
